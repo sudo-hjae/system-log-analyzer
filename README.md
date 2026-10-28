@@ -1,2 +1,2 @@
 # system-log-analyzer
-A simple sytsem log analyzer built with Python
+A simple system log analyzer built with Python
